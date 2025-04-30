@@ -2,7 +2,7 @@ import requests
 from requests.packages.urllib3.util.retry import Retry 
 from requests.adapters import HTTPAdapter
 import random
-import string
+import #string
 import os
 from colorama import Fore, Style, init
 import base64
